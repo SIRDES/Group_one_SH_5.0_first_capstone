@@ -1,0 +1,17 @@
+{
+  "name": "firstcapstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "nodemon server.js -e js,html,css,json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["side hustle first capstone"],
+  "author": "T-DES",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
